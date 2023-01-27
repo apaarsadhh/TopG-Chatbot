@@ -1,0 +1,15 @@
+body {
+    background-color: #7f9463;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+@font-face {
+    font-family: "Light";
+    src: local("ReklameScript-Regular_DEMO") url("/fonts/ReklameScript-Regular_DEMO.otf") format("truetype");
+}
